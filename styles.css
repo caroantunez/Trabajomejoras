@@ -8,6 +8,7 @@ body {
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    padding: 50px;
 }
 
 .link-button {
